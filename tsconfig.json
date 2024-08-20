@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+      "lib": ["dom", "es6"] // Or any other lib settings you need
+    }
+  }
+  
