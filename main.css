@@ -1,0 +1,21 @@
+#body {
+    background-color: black;
+    width: 80%;
+    height: auto;
+    margin: 0 auto; 
+    color: white; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+}
+
+#computerTerminal{
+    border-radius: 5%;
+    width: 70%;
+    height: 80%;
+    color: rgb(181, 27, 27);
+}
+
+
+
